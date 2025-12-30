@@ -1,5 +1,4 @@
 # Hi, I’m Krishnandu Das 👋  
-
 🎓 CSE (AI & ML) Student | 💻 Aspiring Software Developer  
 🚀 Learning by building projects in Python, C++, and Web Technologies
 

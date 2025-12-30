@@ -51,7 +51,7 @@ Python programs covering core concepts and problem-solving.
 ---
 
 ## 🤝 Let’s Connect
-- 📧 Email: daskrishnandu577@gmail.com  
+- 📧 Email: krishnandu.mist@gmail.com  
 - 💼 LinkedIn: https://www.linkedin.com/in/krishnandu-das-39a225338
 
 ---

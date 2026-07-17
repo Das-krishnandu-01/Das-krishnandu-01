@@ -56,18 +56,22 @@ I am a passionate and curious **Computer Science (AI & ML)** student who enjoys 
 
 ---
 
-## 📂 Featured Projects
-🔹 **Medi-Triage**  
-A healthcare pre-triage web application built as a hackathon-style project.
+## 🚀 Featured Projects
 
-🔹 **C++ Core Programs**  
-Implementation of core C++ programs and fundamentals.
+### 📝 MemoStack – Notes Application
+A full-stack notes application with a modern UI for creating, organizing, and managing notes.
+- **Tech Stack:** React, Node.js, Express.js, MongoDB
+- 🔗 https://github.com/Das-krishnandu-01/MemoStack-Notes_Application
 
-🔹 **Python Fundamentals**  
-Python programs covering core concepts and problem-solving.
+### 🛒 ByteBazaar – Shopping Cart Simulation
+A shopping cart simulation that demonstrates product browsing, cart management, and order flow using modern web technologies.
+- **Tech Stack:** HTML, CSS, JavaScript
+- 🔗 https://github.com/Das-krishnandu-01/bytebazaar-shopping-cart-simulation
 
-👉 Check out my pinned repositories below ⬇️
-
+### 🏛️ Landmark Detection using VGG19
+A deep learning project for landmark image classification using the VGG19 architecture.
+- **Tech Stack:** Python, TensorFlow/Keras, OpenCV
+- 🔗 https://github.com/Das-krishnandu-01/Landmark-Detection-VGG19
 ---
 
 ## 📈 What I’m Working On

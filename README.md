@@ -1,7 +1,5 @@
-# Hi, I’m Krishnandu Das 👋  
-🎓 CSE (AI & ML) Student | 💻 Aspiring Software Developer  
-🚀 Learning by building projects in Python, C++, and Web Technologies
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Krishnandu+Das;AI+%26+ML+Engineering+Student;Python+Developer;Computer+Vision+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
 ---
 
 ## 👨‍💻 About Me

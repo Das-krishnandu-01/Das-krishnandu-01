@@ -97,7 +97,6 @@ A deep learning project for landmark image classification using the VGG19 archit
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
   </a>
 </p>
----
 
 <p align="center">
   <b><i>✨ Always learning. Always building. ✨</i></b>

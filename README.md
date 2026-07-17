@@ -1,6 +1,8 @@
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2575FC&height=220&section=header&text=Krishnandu%20Das&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20ML%20Engineer%20%7C%20Python%20Developer&descAlignY=60"/>
-</p>
+<h1 align="center">Hi 👋, I'm Krishnandu Das</h1>
+
+<h3 align="center">
+AI & Machine Learning Student • Python Developer • Computer Vision Enthusiast
+</h3>
 ---
 
 ## 👨‍💻 About Me

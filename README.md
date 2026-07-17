@@ -1,9 +1,8 @@
-<h1 align="center">Hi 👋, I'm Krishnandu Das</h1>
+<h1 align="center"><b>Hi 👋, I'm Krishnandu Das</b></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Python+Developer;AI+%26+ML+Engineer;Full+Stack+Developer;Computer+Vision+Enthusiast;Open+Source+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=32&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=AI+%26+ML+Engineering+Student;Full+Stack+Developer;Python+Developer;Exploring+Generative+AI" alt="Typing SVG" />
 </p>
-
 ## Ovjectives
 
 I am a passionate and curious **Computer Science (AI & ML)** student who enjoys building real-world applications and continuously learning new technologies.

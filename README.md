@@ -1,7 +1,7 @@
-<h1 align="center"><b>Hi 👋, I'm Krishnandu Das</b></h1>
+<h1 align="center">Hi 👋, I'm <b>Krishnandu Das</b></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=32&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=AI+%26+ML+Engineering+Student;Full+Stack+Developer;Python+Developer;Exploring+Generative+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=AI+%26+ML+Engineering+Student;Full+Stack+Developer;Python+Developer;Exploring+Generative+AI" alt="Typing SVG" />
 </p>
 ## Ovjectives
 

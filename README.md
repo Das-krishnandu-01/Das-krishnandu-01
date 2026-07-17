@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Krishnandu+Das;AI+%26+ML+Engineering+Student;Python+Developer;Computer+Vision+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2575FC&height=220&section=header&text=Krishnandu%20Das&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20ML%20Engineer%20%7C%20Python%20Developer&descAlignY=60"/>
+</p>
 ---
 
 ## 👨‍💻 About Me

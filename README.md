@@ -4,16 +4,16 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Python+Developer;AI+%26+ML+Engineer;Full+Stack+Developer;Computer+Vision+Enthusiast;Open+Source+Learner" alt="Typing SVG" />
 </p>
 
-## 👨‍💻 About Me
+## Ovjectives
 
 I am a passionate and curious **Computer Science (AI & ML)** student who enjoys building real-world applications and continuously learning new technologies.
 
-### 🌱 Currently focusing on:
-- 🤖 Artificial Intelligence & Machine Learning
-- 💻 Full Stack Web Development
-- 🐍 Python, C++, and JavaScript
-- 📊 Data Structures & Algorithms
-- 🚀 Project-based Learning & Open Source
+###  Currently focusing on:
+- Artificial Intelligence & Machine Learning
+- Full Stack Web Development
+- Python, C++, and JavaScript
+- Data Structures & Algorithms
+- Project-based Learning & Open Source
 
 ---
 

@@ -1,9 +1,10 @@
-<h1 align="center">Hi 👋, I'm Krishnandu Das</h1>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2575FC&height=220&section=header&text=Krishnandu%20Das&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20ML%20Engineer%20%7C%20Python%20Developer&descAlignY=60"/>
+</p>
 
-<h3 align="center">
-AI & Machine Learning Student • Python Developer • Computer Vision Enthusiast
-</h3>
----
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Artificial+Intelligence+Student;Computer+Vision+Developer;Machine+Learning+Explorer;Open+Source+Contributor;Always+Learning..." />
+</p>
 
 ## 👨‍💻 About Me
 I am a passionate and curious Computer Science student specializing in  

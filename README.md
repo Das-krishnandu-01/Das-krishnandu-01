@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=AI+%26+ML+Engineering+Student;Full+Stack+Developer;Python+Developer;Exploring+Generative+AI" alt="Typing SVG" />
 </p>
 
-## Ovjectives
+##👨‍💻 Ovjectives
 
 I am a passionate and curious **Computer Science (AI & ML)** student who enjoys building real-world applications and continuously learning new technologies.
 

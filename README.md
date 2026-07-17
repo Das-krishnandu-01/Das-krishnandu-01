@@ -5,16 +5,15 @@
 </p>
 
 ## 👨‍💻 About Me
-I am a passionate and curious Computer Science student specializing in  
-**Artificial Intelligence & Machine Learning**.  
-I enjoy solving problems, learning core CS fundamentals, and building
-real-world projects to strengthen my skills.
 
-Currently focusing on:
-- Data Structures & Algorithms
-- Python and C++ programming
-- Web development fundamentals
-- Project-based learning
+I am a passionate and curious **Computer Science (AI & ML)** student who enjoys building real-world applications and continuously learning new technologies.
+
+### 🌱 Currently focusing on:
+- 🤖 Artificial Intelligence & Machine Learning
+- 💻 Full Stack Web Development
+- 🐍 Python, C++, and JavaScript
+- 📊 Data Structures & Algorithms
+- 🚀 Project-based Learning & Open Source
 
 ---
 
